@@ -52,4 +52,4 @@ CarbonPredict/
 
 ## Equipe
 
-FATIMA HARUMI DE SOUZA MATSUOKA 
+FATIMA MATSUOKA 
